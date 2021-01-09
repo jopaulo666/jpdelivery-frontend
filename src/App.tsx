@@ -1,9 +1,10 @@
 import './App.css';
+import Navbar from './NavBar';
 
 function App() {
   return (
     <div>
-      <h1>Hello word!!!</h1>
+      <Navbar />
     </div>
   );
 }
