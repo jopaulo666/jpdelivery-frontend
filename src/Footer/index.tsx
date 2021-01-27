@@ -6,7 +6,7 @@ import {ReactComponent as InstagramIcon} from './instagram.svg'
 function Footer(){
     return(
         <footer className="main-footer">
-            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
+            João Paulo da Mata Mendes &copy; 2021
             <div className="footer-icons">
                 <a href="https://www.youtube.com/c/DevSuperior" target="_new">
                     <YoutubeIcon />
@@ -14,7 +14,7 @@ function Footer(){
                 <a href="https://www.linkedin.com/in/joãopaulo-damatamendes" target="_new">
                     <LinkedinIcon />
                 </a>
-                 <a href="https://www.linkedin.com/in/joãopaulo-damatamendes" target="_new">
+                 <a href="https://www.instagram.com/devsuperior.ig/" target="_new">
                     <InstagramIcon />
                 </a>
                 <a href="https://www.linkedin.com/in/joãopaulo-damatamendes" target="_new">
